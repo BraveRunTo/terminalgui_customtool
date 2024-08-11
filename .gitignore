@@ -1,0 +1,16 @@
+# 编译输出
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
